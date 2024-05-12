@@ -1,5 +1,3 @@
-# imersao_ia_alura_comparador_de_produtos
-
 # Comparador de Produtos na Internet
 
 Cansado de ficar horas pesquisando produtos online? Desenvolvido com tecnologia Gemini, esse ChatBoot te ajuda a comparar dois produtos na internet de forma rápida e simples.
