@@ -6,8 +6,6 @@ Cansado de ficar horas pesquisando produtos online? Desenvolvido com tecnologia 
 
 ## Como Usar
 
-Coloque qualquer informação adicional aqui
-
 Informar Produto 1: Digite o nome do primeiro produto que você deseja comparar. Seja o mais específico possível, incluindo marca, modelo e outras características relevantes.
 
 Informar Produto 2: Digite o nome do segundo produto que você deseja comparar, seguindo as mesmas orientações.
